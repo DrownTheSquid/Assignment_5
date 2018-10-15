@@ -1,0 +1,80 @@
+#nav{
+margin-right:auto;
+margin-left: auto;
+margin-bottom: 50px;
+padding: 10px;
+
+font-family: 'Open Sans Condensed', sans-serif;
+font-size: 1.3em;
+
+text-align: center;
+}
+
+.homepage-page-bg{
+  color: white;
+  background-image: url("../images/fries.jpg");
+  vertical-align: middle;
+  height: 800px;
+  background-repeat: no-repeat;
+  background-size: 100px;
+  background-color: transparent;
+  background-size: cover;
+}
+
+.image-demo{
+  font-size: 60px;
+  padding: 10px;
+  color: white;
+
+
+  background-image: url("../images/fries.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+
+  height: 800px;
+  text-align: center;
+
+  padding-top: 100px;
+
+}
+
+.footer{
+  margin-bottom: 75px;
+}
+
+.toptext{
+  background-color: white;
+}
+
+.welcometext{
+  color: black;
+  font-size: 90px;
+}
+
+.footertext{
+  font-size: 35px
+}
+
+.centerfooter{
+  text-align:center;
+}
+
+.menuimage{
+  color: white;
+  background-image: url("../images/knife.jpg");
+  vertical-align: middle;
+  height: 1025px;
+  background-repeat: no-repeat;
+  background-size: 100px;
+  background-color: transparent;
+  background-size: cover;
+}
+
+.menufooter{
+  margin-bottom: 0px;
+}
+
+.bubbleburger{
+  margin-top: 60px
+  margin-bottom:30px
+}
